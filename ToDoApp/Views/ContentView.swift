@@ -15,10 +15,13 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             VStack {
-                TaskSeacrhView(viewModel: viewModel, isSearching: false)
+                TaskSeacrhView(viewModel: viewModel)
+                SortPickerView(viewModel: viewModel)
                 TaskListView(viewModel: viewModel)
             }
         }
+        
+        
     }
 }
 

@@ -18,6 +18,7 @@
 		8EAE4835270C7CCF00720DDD /* TaskvVew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EAE4834270C7CCF00720DDD /* TaskvVew.swift */; };
 		8EAE4838270C81BF00720DDD /* Text + extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EAE4837270C81BF00720DDD /* Text + extension.swift */; };
 		8EAE483C270C851800720DDD /* TaskSeacrhView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EAE483B270C851800720DDD /* TaskSeacrhView.swift */; };
+		8EBCD052270DB3B20091DBA9 /* SortPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EBCD051270DB3B20091DBA9 /* SortPickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		8EAE4834270C7CCF00720DDD /* TaskvVew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskvVew.swift; sourceTree = "<group>"; };
 		8EAE4837270C81BF00720DDD /* Text + extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Text + extension.swift"; sourceTree = "<group>"; };
 		8EAE483B270C851800720DDD /* TaskSeacrhView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskSeacrhView.swift; sourceTree = "<group>"; };
+		8EBCD051270DB3B20091DBA9 /* SortPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortPickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				8EAE481D270C739100720DDD /* ContentView.swift */,
 				8EAE4832270C7AFB00720DDD /* TaskListView.swift */,
+				8EBCD051270DB3B20091DBA9 /* SortPickerView.swift */,
 				8EAE4834270C7CCF00720DDD /* TaskvVew.swift */,
 				8EAE483B270C851800720DDD /* TaskSeacrhView.swift */,
 			);
@@ -188,6 +191,7 @@
 				8EAE482C270C769A00720DDD /* TaskViewModel.swift in Sources */,
 				8EAE482A270C73C000720DDD /* Task.swift in Sources */,
 				8EAE483C270C851800720DDD /* TaskSeacrhView.swift in Sources */,
+				8EBCD052270DB3B20091DBA9 /* SortPickerView.swift in Sources */,
 				8EAE481C270C739100720DDD /* ToDoAppApp.swift in Sources */,
 				8EAE4838270C81BF00720DDD /* Text + extension.swift in Sources */,
 				8EAE4833270C7AFB00720DDD /* TaskListView.swift in Sources */,
